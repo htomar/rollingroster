@@ -18,3 +18,25 @@ body {
 	display: none;
 	font-family: sans-serif;
 }
+.saveBtn{
+ padding: 10px;
+   border-radius: 8px;
+   font-size: 14px;
+   background-color: #666;
+   color: #fff;
+}
+
+.monthwise{
+ font-size: 14px;
+     display: inline-block;
+     width: 124px;
+     height: 38px;
+     border-radius: 8px;
+     background-color: #fff;
+     color: #666;
+     border: 1px solid #333;
+     line-height: 38px;
+     text-align: center;
+     text-decoration: none;
+     font-family: sans-serif;
+}
